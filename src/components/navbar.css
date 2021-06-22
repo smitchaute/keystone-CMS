@@ -1,0 +1,18 @@
+
+.main-nav{
+    width: 100%;
+    
+}
+.main-nav div{
+    float: left;
+    display: inline;
+    font-weight: bold;
+    font-size: 20px;
+    color: grey;
+    padding: 10px;
+}
+.main-nav div:hover{
+    background-color: gainsboro;
+    border-radius: 0;
+    color: black;
+}
